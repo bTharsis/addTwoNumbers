@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+    width: 400px;
+    background-color: aquamarine;
+}
+
+.firstNumber {
+    color: red;
+}
+
+.secondNumber {
+    color: blue;
+}
+
+.btn {
+    color: green;
+}
